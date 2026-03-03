@@ -1,0 +1,5 @@
+{
+  "name": "React ATM Simulator",
+  "description": "A responsive web-based ATM simulation system with email OTP verification, built with React and Tailwind CSS. It features a realistic ATM interface for operations like cash withdrawal, deposit, and balance checking after a simulated OTP verification.",
+  "requestFramePermissions": []
+}
